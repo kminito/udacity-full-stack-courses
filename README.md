@@ -41,7 +41,6 @@ Udacity의 Full Stack Web Developer Nanodegree의 Syllabus를 바탕으로 정�
 
 ### Extracurricular material
 
-#### PART 1
 1. Web Accessibility  https://eu.udacity.com/course/web-accessibility--ud891  
 2. JavaScript Design Patterns https://eu.udacity.com/course/javascript-design-patterns--ud989  
 3. Intro to AJAX  https://eu.udacity.com/course/intro-to-ajax--ud110  
