@@ -5,6 +5,7 @@ Udacity의 Full Stack Web Developer Nanodegree의 Syllabus를 바탕으로 정�
 
 
 ## [Full Stack Web Developer](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+Syllabus : [https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Full+Stack+Web+Developer+Nanodegree+Program+Syllabus.pdf](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Full+Stack+Web+Developer+Nanodegree+Program+Syllabus.pdf)
 
 ### PART 1
 **Welcome to the Program!**
